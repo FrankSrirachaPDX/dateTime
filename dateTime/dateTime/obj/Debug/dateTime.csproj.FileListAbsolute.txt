@@ -1,0 +1,7 @@
+c:\users\ryan\source\repos\dateTime\dateTime\bin\Debug\dateTime.exe.config
+c:\users\ryan\source\repos\dateTime\dateTime\bin\Debug\dateTime.exe
+c:\users\ryan\source\repos\dateTime\dateTime\bin\Debug\dateTime.pdb
+c:\users\ryan\source\repos\dateTime\dateTime\obj\Debug\dateTime.csprojResolveAssemblyReference.cache
+c:\users\ryan\source\repos\dateTime\dateTime\obj\Debug\dateTime.csproj.CoreCompileInputs.cache
+c:\users\ryan\source\repos\dateTime\dateTime\obj\Debug\dateTime.exe
+c:\users\ryan\source\repos\dateTime\dateTime\obj\Debug\dateTime.pdb
